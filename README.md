@@ -11,3 +11,11 @@ More about me at [marcoramos.me](https://marcoramos.me/)
 > *be the person who ends the meeting early.*
 
 <br><br>
+
+
+<a href="https://www.credly.com/badges/341fa529-2308-4c7a-80d7-92a3c4274705/public_url" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://github.com/Majramos/Majramos/blob/main/badges/data-science-fundamentals-specialization-v2.png"
+    alt="Data Science Methodology IBM" width="150" height="150"
+  >
+</a>
